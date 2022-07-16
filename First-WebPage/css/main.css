@@ -1,0 +1,30 @@
+  html{
+    font-size: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  body{
+    background-color:lightslategray;
+    color: black;
+  }
+
+  a{
+    color:aqua
+  }
+
+  a:visited{
+    color:blueviolet
+  }
+
+  a:hover,a:active{
+    color:chartreuse
+  }
+
+  table,tr,td,th,td,caption{
+    border:3px solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    border-collapse: collapse;
+    padding:0.5rem;
+  }
+
